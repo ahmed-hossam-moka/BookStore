@@ -36,7 +36,7 @@
 
 ## 🧱 Project Structure
 
-📂 quantum-bookstore
+📂 Quantum-bookstore
 ├── Book.java
 ├── PaperBook.java
 ├── EBook.java
@@ -49,8 +49,6 @@
 ---
 
 ## 🖼️ Screenshots
-
-> 📸 *You can insert screenshots of your program in action here.*
 
 Example:
 
@@ -80,7 +78,7 @@ To add a new type of book (e.g., `bla bla`):
 ## ✍️ Author
 
 - Name: **[Ahmed Hossam]**
-- GitHub: [[(https://github.com/ahmed-hossam-moka/)]]
+- GitHub: [(https://github.com/ahmed-hossam-moka/)]
 
 ---
 
