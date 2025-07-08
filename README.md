@@ -1,15 +1,15 @@
-# 📚 Quantum Bookstore
+#  Quantum Bookstore
 
 **Quantum Bookstore** is a simple Java project that simulates an online bookstore. It’s designed using clean Object-Oriented Programming (OOP) principles, making the system highly extensible and maintainable.
 
----
 
-## ✅ Features
+
+##  Features
 
 - Supports multiple book types:
-  - 📕 **PaperBook**: Physical books with stock, shipped to an address.
-  - 📘 **EBook**: Digital books with file type, sent via email.
-  - 📗 **ShowcaseBook**: Display-only books that cannot be purchased.
+  - **PaperBook**: Physical books with stock, shipped to an address.
+  - **EBook**: Digital books with file type, sent via email.
+  - **ShowcaseBook**: Display-only books that cannot be purchased.
   
 - Core functionalities:
   - Add a new book to the inventory.
@@ -21,9 +21,9 @@
   - **Open/Closed Principle**
   - **Polymorphism and Encapsulation**
 
----
 
-## 🛠️ How to Run
+
+##  How to Run
 
 1. Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code).
 2. Run the `Main` class.
@@ -32,11 +32,10 @@
    - Shipping/email simulation
    - Outdated book removal
 
----
 
-## 🧱 Project Structure
+##  Project Structure
 
-📂 Quantum-bookstore
+ Quantum-bookstore
 ├── Book.java
 ├── PaperBook.java
 ├── EBook.java
@@ -46,9 +45,8 @@
 └── Main.java
 
 
----
 
-## 🖼️ Screenshots
+##  Screenshots
 
 Example:
 
@@ -61,9 +59,8 @@ Example:
 ![The output2](screenshots/OutputScreenshot2.png)  
 *The output ofter runing the system*
 
----
 
-## 🧩 How to Extend
+##  How to Extend
 
 To add a new type of book (e.g., `bla bla`):
 
@@ -71,14 +68,14 @@ To add a new type of book (e.g., `bla bla`):
 2. Implement the `buy()` method according to the new logic.
 3. Add the new book object to the store inventory.
 
-✅ No changes are needed to existing classes.
+ No changes are needed to existing classes.
 
----
 
-## ✍️ Author
+##  Author
 
 - Name: **[Ahmed Hossam]**
 - GitHub: [(https://github.com/ahmed-hossam-moka/)]
 
----
+
+
 
